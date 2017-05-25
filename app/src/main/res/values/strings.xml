@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Checklist</string>
+    <string name="add_item_hint">Enter item</string>
+    <string name="add_item_cancel">cancel</string>
+    <string name="add_item_add">add</string>
+    <string name="edit_item_edit">edit</string>
+</resources>
